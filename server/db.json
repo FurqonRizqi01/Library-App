@@ -111,6 +111,13 @@
       "year": 2009,
       "quantity": 20,
       "id": 16
+    },
+    {
+      "id": 17,
+      "title": "Tentang Kamu",
+      "author": "Tere Liye",
+      "year": 2016,
+      "quantity": 100
     }
   ]
 }

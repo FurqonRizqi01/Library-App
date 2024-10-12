@@ -8,6 +8,6 @@
 
 const studentName = 'Muhammad Furqon Rizqi';
 const studentId = 'FS11844837';
-const NetlifyDeployUrl = '';
+const NetlifyDeployUrl = 'https://perpus-apps.netlify.app/';
 
 module.exports = { studentName, studentId, NetlifyDeployUrl };
